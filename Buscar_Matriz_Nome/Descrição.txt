@@ -1,0 +1,8 @@
+# Algoritmo Buscar_Matriz_Nome
+
+O algoritmo realiza:
+- A busca de um nome digitado pelo usuário, em uma matriz bidimensional.
+
+O algoritmo apresenta:
+- Uma mensagem informando que o nome foi encontrado, caso o nome esteja na matriz.
+- Uma mensagem informando que o nome não foi encontrado, caso o nome não esteja na matriz.
