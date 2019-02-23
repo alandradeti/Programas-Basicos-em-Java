@@ -1,4 +1,4 @@
-package Separacao_Caracteres;
+package Separar_Caracteres;
 
 import javax.swing.JOptionPane;
 
