@@ -1,9 +1,9 @@
 # Algoritmo Separar_Caracteres
 
 O algoritmo realiza:
-- A tentativa de caracteres, são uma cadeia de caracteres ou números.
+- A separaÃ§Ã£o de caracteres, sejam uma cadeia de caracteres ou nÃºmeros.
 
 O algoritmo apresenta:
-- Uma cadeia de caracteres ou números digitados pelo usuário.
+- Uma cadeia de caracteres ou nÃºmeros digitados pelo usuÃ¡rio.
 - A quantidade de caracteres presentes na cadeia.
-- Os textos da cadeia separados por vírgula.
+- Os caracteres da cadeia separados por vÃ­rgula.
