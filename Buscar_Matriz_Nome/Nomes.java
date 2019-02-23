@@ -16,13 +16,13 @@ public class Buscar_Matriz_Nome{
     static boolean existe(String nomeBuscado){
         //Declaração da matriz "nome[][]"
         String nome [][] = new String [2][2];
-        //Preenchimento estático da Matriz
+        //Preenchimento estático da matriz "nome[][]"
         nome[0][0] = "Caio";
         nome[0][1] = "Marcos";
         nome[1][0] = "Pablo";     
         nome[1][1] = "Felipe";
         
-        //Verifica se a váriavel "nomeBuscado" digitado pelo usuário está dentro da matriz "nome[][]" e retorno "Verdadeiro"
+        //Verifica se a váriavel "nomeBuscado" digitada pelo usuário está dentro da matriz "nome[][]" e retorna "Verdadeiro"
         for(int i = 0; i < 2; i++){
             for(int j = 0; j < 2;j++){
                 if(nome[i][j].equals(nomeBuscado)){
