@@ -114,7 +114,7 @@ public class Separar_Caracteres {
     * Método: main()
     * @param: String [] args: vetor de argumentos fornecidos na linha de comando durante a chamada do sistema.
     * @return: nenhum valor de retorno.
-    * Funcionalidades: Realizar a chamada dos metódos "menu" e "visualizarDados".      
+    * Funcionalidades: Realizar a chamada dos métodos "menu" e "visualizarDados".      
     */ 
     public static void main(String[] args) {
         //Declaração da váriavel "opcaoMenu" que representa a opção selecionada no menu
