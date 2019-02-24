@@ -2,10 +2,10 @@ package ConverterBinario;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Ailton Lima de Andrade
- */
+/*
+*
+* @author Ailton Lima de Andrade
+*/
 public class Converter_Binario{
 
     /*
