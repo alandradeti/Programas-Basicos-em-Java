@@ -1,0 +1,7 @@
+# Algoritmo Classificar_Triangulo
+
+O algoritmo realiza:
+- A classificação de um triângulo, conforme os valores de seus lados.
+
+O algoritmo apresenta:
+- A classificação do triângulo.
