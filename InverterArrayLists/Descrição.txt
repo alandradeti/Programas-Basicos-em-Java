@@ -1,0 +1,8 @@
+# Algoritmo Inverter_ArrayList
+
+O algoritmo realiza:
+- A inversão de um ArrayList com elementos definidos.
+
+O algoritmo apresenta:
+- O ArrayList original.
+- O ArrayList invertido.
