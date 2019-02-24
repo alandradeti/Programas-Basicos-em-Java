@@ -1,0 +1,10 @@
+# Algoritmo Calcular_Imposto_Renda
+
+O algoritmo realiza:
+- O cálculo de um "exemplo de imposto de renda".
+
+O algoritmo apresenta:
+- O valor do salário
+- O valor do imposto.
+
+
