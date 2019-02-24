@@ -1,4 +1,4 @@
-package Soma;
+package Somar;
 
 import javax.swing.JOptionPane;
 
@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 *
 * @ Ailton Lima de Andrade
 */
-public class Soma{
+public class SomarNumeros{
     /*
     * Método: main()
     * @param: String [] args: vetor de argumentos fornecidos na linha de comando durante a chamada do sistema.
