@@ -1,9 +1,0 @@
-# Algoritmo Separar_Caracteres
-
-O algoritmo realiza:
-- A separação de caracteres, sejam uma cadeia de caracteres ou números.
-
-O algoritmo apresenta:
-- Uma cadeia de caracteres ou números digitados pelo usuário.
-- A quantidade de caracteres presentes na cadeia.
-- Os caracteres da cadeia separados por vírgula.
