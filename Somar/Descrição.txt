@@ -1,0 +1,8 @@
+# Algoritmo Somar_Numeros
+
+O algoritmo realiza:
+- A soma de dois números e a leitura de um nome digitado pelo usuário.
+
+O algoritmo apresenta:
+- O nome digitado pelo usuário.
+- O resultado da soma dos dois números.

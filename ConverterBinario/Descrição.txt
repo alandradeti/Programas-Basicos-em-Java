@@ -1,0 +1,8 @@
+# Algoritmo Converter_Binario
+
+O algoritmo realiza:
+- A conversão de um número digitado pelo usuário em binário.
+
+O algoritmo apresenta:
+- Uma mensagem informando o número em decimal.
+- Uma mensagem informando o número em binário.
