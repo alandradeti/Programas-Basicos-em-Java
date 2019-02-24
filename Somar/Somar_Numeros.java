@@ -11,10 +11,8 @@ public class Somar_Numeros{
     * Método: main()
     * @param: String [] args: vetor de argumentos fornecidos na linha de comando durante a chamada do sistema.
     * @return: nenhum valor de retorno.
-    * Funcionalidades:
-    *       Realizar a leitura de um nome e a soma de dois números e
-    *       apresentar o nome digitado pelo usuário e o resultado da 
-    *       soma dos dois números.
+    * Funcionalidades:Realizar a leitura de um nome e a soma de dois números e
+    * apresentar o nome digitado pelo usuário e o resultado da soma dos dois números.    
     */ 
     public static void main(String[] args) {
         //Declaração das váriaveis
