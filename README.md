@@ -1,4 +1,4 @@
-# Programas em Java
+# Programas Básicos em Java
 
 Códigos em Java com propósitos de treinar conceitos de resoluções de problemas.
 
