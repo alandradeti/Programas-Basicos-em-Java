@@ -2,10 +2,10 @@ package SepararCaracteres;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Ailton Lima de Andrade
- */
+/*
+*
+* @author Ailton Lima de Andrade
+*/
 public class Separar_Caracteres {
 
     //Declaração da variável global “cadeiaCaracteres” que representa o que foi digitado pelo usuário
