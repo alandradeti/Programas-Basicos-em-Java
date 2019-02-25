@@ -15,7 +15,7 @@ public class Separar_Caracteres {
     * Método: calcularDigitos()
     * @param: cadeiaCaracteres.
     * @return: qtdCaracteres.
-    * Funcionalidade: Realizar o cálculo da quantidade de caracteres".
+    * Funcionalidade: Realizar o cálculo da quantidade de caracteres.
     */
     public static int calcularCaracteres(String cadeiaCaracteres) {
         /*Declaração da váriavel interna "qtdCaracteres" do método "calcularDigitos" 
