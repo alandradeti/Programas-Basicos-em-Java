@@ -1,0 +1,8 @@
+# Algoritmo Calcular_Desconto
+
+O algoritmo realiza:
+- O cálculo do desconto conforme o valor da compra.
+
+O algoritmo apresenta:
+- Uma mensagem informando o valor da compra e o desconto.
+
