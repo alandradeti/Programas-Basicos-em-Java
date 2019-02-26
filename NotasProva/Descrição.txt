@@ -1,0 +1,7 @@
+# Algoritmo Notas_Prova
+
+O algoritmo realiza:
+- A média e a soma das notas.
+
+O algoritmo apresenta:
+- Uma mensagem informando a média, soma, menor nota e maior nota.
